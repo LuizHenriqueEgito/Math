@@ -1,0 +1,2 @@
+- [ ] Passe por todos os fundamentos de algebra linear (geo analitica)
+- [ ] Use numpy e jax
