@@ -1,1 +1,3 @@
 - [ ] Faça o livro inteiro do Stweart
+- [ ] Para derivar use `jax` e `pytorch`
+- [ ] Para integrar use scipy.integrate
